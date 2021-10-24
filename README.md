@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsabellaFreese
-- 👀 I’m interested in sports, chess and reading
+- 👀 I’m interested in reading, chess and sports
 - 🌱 I’m currently learning italian and python
 
 
